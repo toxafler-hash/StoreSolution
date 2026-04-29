@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="../source/repos/StoreSolution.sln/Application/Application.csproj" Id="439a9b5b-d32e-43b5-aa01-c00fe23a7bea" />
+    <Project Path="../source/repos/StoreSolution.sln/Domain/Domain.csproj" Id="42a78a5a-dd10-4fee-a2b9-9ae67a048b5f" />
+    <Project Path="../source/repos/StoreSolution.sln/Infrastructure/Infrastructure.csproj" Id="233c591d-72e3-4651-9221-4ed6c2bd5e79" />
+  </Folder>
+  <Folder Name="/tests/" />
+  <Project Path="../source/repos/StoreSolution.sln/PresentationNew/PresentationNew.csproj" Id="2f1f698c-74e4-4ffb-afc3-f5f7eac2d93c" />
+</Solution>
